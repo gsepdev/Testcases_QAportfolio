@@ -4,3 +4,20 @@ The goal is to ensure the robustness, functionality, and security of the website
 The test cases are meticulously designed to cover various scenarios, from basic usability to edge cases, with the aim of guaranteeing
 a seamless user experience and identifying potential vulnerabilities.
 </p>
+<p> Some Test Scanearios and Test cases for QA Portfolio</p>
+<p>
+  Test Scenarios 1.0:
+   <p>Portfolio Functionality and Usability Testing </p>
+   
+  <h>Navigation Testing:</h>	
+         <p> •	Test Case 1.1: Verify that all navigation links in the portfolio are working as expected.</p>
+         </p> •	Test Case 1.2: Check the navigation flow between different sections of the portfolio.</p>
+          
+
+ 
+ <h> Test Scenario 2.0</h>
+     <p>2.	Interactivity Testing:
+          •	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.
+          •	Test Case 2.2: Check the responsiveness of interactive elements across different devices.
+      <p/>
+     
