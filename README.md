@@ -4,7 +4,7 @@
 >The test cases are meticulously designed to cover various scenarios, from basic usability to edge cases, with the aim of guaranteeing
 >a seamless user experience and identifying potential vulnerabilities.
 
-# Some Test Scanearios and Test cases for QA Portfolio
+## Some Test Scanearios and Test cases for QA Portfolio
   
      <P>Portfolio Functionality and Usability Testing </P>
    >1 Test Scenarios 1.0: Navigation Testing:
