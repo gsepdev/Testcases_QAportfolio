@@ -20,8 +20,8 @@
           - Test Case 2.2: Check the responsiveness of interactive elements across different devices. 
 
    3 Test Scenario 3.0 3.	Responsiveness Testing:
-          -	Test Case 3.1: Test the responsiveness of the portfolio on different screen sizes (desktop, tablet, mobile).
-          - Test Case 3.2: Verify that the content adjusts appropriately to different screen orientations.
+          -	 Test Case 3.1: Test the responsiveness of the portfolio on different screen sizes (desktop, tablet, mobile).
+          -  Test Case 3.2: Verify that the content adjusts appropriately to different screen orientations.
 
      
      
