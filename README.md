@@ -38,6 +38,18 @@
           -	Test Case 6.1: Evaluate the portfolio's loading time across different network speeds.
           - Test Case 6.2: Check for any performance bottlenecks during interactions with the portfolio. 
    
+   7 Test Scenario 7.0: 	Security Testing</h>
+     	
+          -	Test Case 7.1: Conduct security tests to identify and address potential vulnerabilities.
+          - Test Case 7.2: Ensure secure data transmission and protection against common security threats.
+   8 Test Scenario 8.0: Content Validation: Testing</h>
+ 
+         -	Test Case 7.1: Validate the accuracy and relevance of the content presented in the portfolio.
+          - Test Case 7.2:	Ensure that all information is up-to-date and reflects the current state of the
+                             QA professional's achievements and skills.
+
+  
+
   
 
      
