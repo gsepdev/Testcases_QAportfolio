@@ -8,11 +8,11 @@ a seamless user experience and identifying potential vulnerabilities.
 <p>
   
    <p>Portfolio Functionality and Usability Testing </p>
-   <p>Test Scenarios 1.0: Navigation Testing:</p>
+   <p>Test Scenarios 1.0: Navigation Testing:
 
-         <p> •	Test Case 1.1: Verify that all navigation links in the portfolio are working as expected.</p>
-         </p> •	Test Case 1.2: Check the navigation flow between different sections of the portfolio.</p>
-         <p> Click to see  Test scenario 1.0 and Test cases.</p>
+          •	Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
+          •	Test Case 1.2: Check the navigation flow between different sections of the portfolio.</p>
+          
          
 
  
