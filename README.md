@@ -18,10 +18,15 @@
      	
           -	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.
           - Test Case 2.2: Check the responsiveness of interactive elements across different devices. 
-   2 Test Scenario 2.0: Responsiveness Testing</h>
+   2 Test Scenario 3.0: Responsiveness Testing</h>
      	
-          -	Test Case 2.1: Test the responsiveness of the portfolio on different screen sizes (desktop, tablet, mobile).
-          - Test Case 2.2: Verify that the content adjusts appropriately to different screen orientations. 
+          -	Test Case 3.1: Test the responsiveness of the portfolio on different screen sizes (desktop, tablet, mobile).
+          - Test Case 3.2: Verify that the content adjusts appropriately to different screen orientations. 
+   
+   2 Test Scenario 4.0: Compatibility  Testing</h>
+     	
+          -	Test Case 4.1: Check the portfolio's compatibility with different web browsers (Chrome, Firefox, Safari, Edge).
+          - Test Case 4.2: Verify that the content adjusts appropriately to different screen orientations. 
 
   
 
