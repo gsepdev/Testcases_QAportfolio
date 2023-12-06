@@ -11,7 +11,8 @@
     1 Test Scenarios 1.0: Navigation Testing.  
         - Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
         - Test Case 1.2: Check the navigation flow between different sections of the portfolio. 
-             
+
+   [Test cases Template Navigation Testing.](https://docs.google.com/spreadsheets/d/185ierT37oe-oyDenVTTbMJ58DetAym222fJu3TXzUDM/edit?usp=sharing)
       
    2 Test Scenario 2.0:  Interactivity Testing</h>
      	
@@ -19,4 +20,4 @@
           - Test Case 2.2: Check the responsiveness of interactive elements across different devices. 
      
      
-[Test cases Template](https://docs.google.com/spreadsheets/d/185ierT37oe-oyDenVTTbMJ58DetAym222fJu3TXzUDM/edit?usp=sharing)
+
