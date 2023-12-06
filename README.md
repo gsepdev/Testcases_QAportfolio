@@ -8,9 +8,9 @@
    Portfolio Functionality and Usability Testing 
    
    
-    1 Test Scenarios 1.0: Navigation Testing:
+    1 Test Scenarios 1.0: Navigation Testing:  [Test Scenario Template]([https://pages.github.com/](https://docs.google.com/spreadsheets/d/185ierT37oe-oyDenVTTbMJ58DetAym222fJu3TXzUDM/edit?usp=sharing).
         - Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
-        - Test Case 1.2: Check the navigation flow between different sections of the portfolio.
+        - Test Case 1.2: Check the navigation flow between different sections of the portfolio. 
              
       
    2 Test Scenario 2.0:  Interactivity Testing</h>
