@@ -7,14 +7,11 @@
 > Some Test Scanearios and Test cases for QA Portfolio
 
   
-   >Portfolio Functionality and Usability Testing 
+   Portfolio Functionality and Usability Testing 
    1 Test Scenarios 1.0: Navigation Testing:
         - Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
         - Test Case 1.2: Check the navigation flow between different sections of the portfolio.
-         1. First list item
-             - First nested list item
-               - Second nested list item
-                    
+               
          
 
  
