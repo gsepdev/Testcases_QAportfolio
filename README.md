@@ -44,8 +44,8 @@
           - Test Case 7.2: Ensure secure data transmission and protection against common security threats.
    8 Test Scenario 8.0: Content Validation: Testing</h>
  
-         -	Test Case 7.1: Validate the accuracy and relevance of the content presented in the portfolio.
-          - Test Case 7.2:	Ensure that all information is up-to-date and reflects the current state of the
+         -	Test Case 8.1: Validate the accuracy and relevance of the content presented in the portfolio.
+          - Test Case 8.2:	Ensure that all information is up-to-date and reflects the current state of the
                              QA professional's achievements and skills.
 
   
