@@ -10,15 +10,15 @@ a seamless user experience and identifying potential vulnerabilities.
    <p>Portfolio Functionality and Usability Testing </p>
    <p>Test Scenarios 1.0: Navigation Testing:</p>
 
-        <p> •	Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
-          •	Test Case 1.2: Check the navigation flow between different sections of the portfolio.</p>
+          * Test Case 1.1: Verify that all navigation links in the portfolio are working as expected
+          * Test Case 1.2: Check the navigation flow between different sections of the portfolio.
           
          
 
  
  <h> Test Scenario 2.0:  Interactivity Testing</h>
      	
-         <p>•	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.</p>
-         <p> •Test Case 2.2: Check the responsiveness of interactive elements across different devices. <p/>
+          *	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.</p>
+          * Test Case 2.2: Check the responsiveness of interactive elements across different devices. <p/>
      
      
