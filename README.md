@@ -16,9 +16,9 @@ a seamless user experience and identifying potential vulnerabilities.
          
 
  
- <h> Test Scenario 2.0:  Interactivity Testing</h>
+  2 Test Scenario 2.0:  Interactivity Testing</h>
      	
-          *	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.</p>
-          * Test Case 2.2: Check the responsiveness of interactive elements across different devices. <p/>
+          -	Test Case 2.1: Verify the functionality of interactive elements such as buttons, forms, or any user input fields.</p>
+          - Test Case 2.2: Check the responsiveness of interactive elements across different devices. <p/>
      
      
